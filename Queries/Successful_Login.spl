@@ -1,2 +1,3 @@
-index=windows EventCode=4624 |
-Table_time host Source_Network_Address
+index=* (EventCode=4624 OR EventCode=4625)
+Account_Name="YOUR_USERNAME"
+| table _time EventCode Source_Network_Address host
