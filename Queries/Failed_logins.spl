@@ -1,2 +1,2 @@
-index=Windows EventCode=4625|
-tbale_time Source_Network_Address host Account_Name Logon_Type
+index=* EventCode=4625
+| tbale_time Source_Network_Address host Account_Name Logon_Type
