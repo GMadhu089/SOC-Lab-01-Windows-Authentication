@@ -189,9 +189,5 @@ Through this lab, I gained hands-on experience in:
 
 ## Author
 
-**Madhu Arya**
-
+**GAMPANAPALLI MADHU
 Cybersecurity Enthusiast | SOC Analyst Aspirant | Blue Team Learner
-
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub Repository URL)*
